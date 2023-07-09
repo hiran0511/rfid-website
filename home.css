@@ -1,0 +1,51 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body{
+     
+   /* background: linear-gradient(to top,#f9858b, #ed335f 34% 89%);
+    background: linear-gradient(to bottom right, #ccecf1ec 0%, #0c6472ec 100%);*/
+    background: linear-gradient(to right, #0eb6b0 32%, #0eb6b0 80%);
+  }
+  .carousel-inner img {
+      width: 200%;
+      height: 100%;
+    }
+  .domains{
+    margin: 20px;
+
+  }
+  .card-deck{
+    margin: 1px 40% 1px 40%;
+    padding: 5px;
+    background: transparent;
+    /*background-color: rgba(175, 194, 173, 0.699);*/
+    border-radius: 1px;
+    height:50%
+    
+
+    
+  }
+  .card-body{
+    padding: 5px;
+    background: transparent;
+    background-color: rgba(0, 0, 0, 0.927);
+    border-radius: 0px;
+    height:50%;
+  }
+  .card-group{
+    margin: 1% ;
+  }
+  
+  footer{
+    text-align: right;
+    text-shadow: 0ch;
+    text-align-last: right;
+    
+    color:aliceblue
+  }
+  
